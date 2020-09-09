@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webbali1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/webbali1/static/js/main.f180dfb5.chunk.js",
+    "main.js.map": "/webbali1/static/js/main.f180dfb5.chunk.js.map",
+    "runtime-main.js": "/webbali1/static/js/runtime-main.84609d30.js",
+    "runtime-main.js.map": "/webbali1/static/js/runtime-main.84609d30.js.map",
+    "static/css/2.3ed72f2b.chunk.css": "/webbali1/static/css/2.3ed72f2b.chunk.css",
+    "static/js/2.16da7b08.chunk.js": "/webbali1/static/js/2.16da7b08.chunk.js",
+    "static/js/2.16da7b08.chunk.js.map": "/webbali1/static/js/2.16da7b08.chunk.js.map",
+    "index.html": "/webbali1/index.html",
+    "precache-manifest.16a84b6096c55d33ff514baa1ded1771.js": "/webbali1/precache-manifest.16a84b6096c55d33ff514baa1ded1771.js",
+    "service-worker.js": "/webbali1/service-worker.js",
+    "static/css/2.3ed72f2b.chunk.css.map": "/webbali1/static/css/2.3ed72f2b.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/webbali1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.16da7b08.chunk.js.LICENSE.txt": "/webbali1/static/js/2.16da7b08.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/webbali1/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/webbali1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84609d30.js",
+    "static/css/2.3ed72f2b.chunk.css",
+    "static/js/2.16da7b08.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f180dfb5.chunk.js"
+  ]
+}
